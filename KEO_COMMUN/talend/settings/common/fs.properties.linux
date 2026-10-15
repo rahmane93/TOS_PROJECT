@@ -1,0 +1,13 @@
+COMMON_DIR=app/settings/common/
+DATA_OUTPUT=input
+DATA_OUTPUT=output
+DATA_TODO=to_do
+DATA_DONE=done
+DATA_FAILED=failed
+SUPERVISION=app/talend/supervision
+LOG=app/talend/settings
+SETTINGS_ROOT=app/talend/settings
+DATA=app/talend/data/$taskName$
+HOME=app/talend/settings/$taskName$
+SETTINGS=app/talend/settings/$taskName$
+RESOURCES=home/talend/scripts/jobs/$taskName$/resources
